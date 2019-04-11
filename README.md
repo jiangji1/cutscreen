@@ -1,3 +1,5 @@
+npm i cutimg_of_jiangji
+
 说明(or demo)
 插件不支持非手机端的。
 html打开方式不支持file协议，只能在服务器上跑，推荐使用vscode中的插件live server直接运行测试。
